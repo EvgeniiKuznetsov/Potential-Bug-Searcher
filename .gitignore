@@ -1,0 +1,11 @@
+/.gradle
+/.idea
+/build
+/out
+*.iml
+*.ipr
+*.iws
+/src/main/java/MainModule.java
+/src/main/java/SearchThread.java
+/Result.txt
+/Result2.txt
